@@ -1,0 +1,35 @@
+id: IF69D309F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:51:27.374029'
+last_modified: '2022-06-17T12:51:27.374034'
+parser: null
+source_metadata:
+  title: Madhyamakāvatāra Series
+  language: bo
+  description: 'Texts related to the Madhyamakāvatāra (dbu ma la ’jug pa), or Introduction
+    to the Middle Way, by Candrakīrti:'
+  volume:
+    f5D96:
+      title: Commentary on the Madhyamakāvatāra—Part 1—Collection of Reasoning
+      base_file: f5D96.txt
+      order: 1
+      parent: Commentary
+    f2B4B:
+      title: Commentary on the Madhyamakāvatāra—Part 2—Title and Translators Homage
+      base_file: f2B4B.txt
+      order: 2
+      parent: Commentary
+    fFBA5:
+      title: Prologue to Introduction to the Middle Way (Madhyamakāvatāra)
+      base_file: fFBA5.txt
+      order: 3
+      parent: Prologue
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
